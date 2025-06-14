@@ -18,7 +18,7 @@ CharacTales is a backend service that allows users to create fictional character
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/charactales.git
+git clone https://github.com/itz-me-nvs/charactales.git
 cd charactales/backend
 
 ```
