@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+httpx
+openai
+groq
+supabase
+python-dotenv
+starlette

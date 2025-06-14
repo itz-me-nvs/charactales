@@ -1,0 +1,33 @@
+# Python virtual environment
+venv/
+.env
+.env.*
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# VS Code and editor folders
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Pydantic cache (if applicable)
+.pdm.toml
+.pdm.lock
+__pypackages__/
+
+# Test/coverage artifacts
+.coverage
+htmlcov/
+.pytest_cache/
